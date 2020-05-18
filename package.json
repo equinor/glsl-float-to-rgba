@@ -1,0 +1,21 @@
+{
+  "name": "glsl-float-to-rgba",
+  "version": "1.0.0",
+  "description": "WebGL shader function to encode a 32-bit float to the RGBA color channels of a texel",
+  "main": "index.glsl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "glsl",
+    "webgl",
+    "glslify",
+    "shader"
+  ],
+  "author": "Thorbjorn Horgen (github.com/thor85)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/equinor/glsl-float-to-rgba.git"
+  }
+}
